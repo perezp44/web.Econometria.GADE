@@ -15,7 +15,7 @@ title: ""
 
 - [Slides tema 5](./econometria_gadedret/slides_tema_5.html){target="_blank"}
 
-- [Slides tema 6](./econometria_gadedret/slides_tema_7.html){target="_blank"}
+- [Slides tema 6](./econometria_gadedret/slides_tema_6.html){target="_blank"}
 
 - [Slides tema 7](./econometria_gadedret/slides_tema_7.html){target="_blank"}
 
