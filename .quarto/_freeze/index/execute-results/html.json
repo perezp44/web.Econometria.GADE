@@ -1,0 +1,14 @@
+{
+  "hash": "e89d4b59f0de5ecf5fcebb51b06e2fff",
+  "result": {
+    "markdown": "---\ntitle: \"\"\n---\n\n\n\nWeb para distribuir materiales para la asignatura Econometría de GADE (grupo F).\n\nEl repo en Github está [aquí](https://github.com/perezp44/web.temporal).\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

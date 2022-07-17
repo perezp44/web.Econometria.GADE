@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Econometría (GADE, grupo F, 2022-23). UV"
+  favicon: imagenes/uv_favicon.ico
+  site-url: https://perezp44.github.io/web.Econometria.GADE/
+  repo-url: https://github.com/perezp44/web.Econometria.GADE
+
+  navbar:
+    logo: "imagenes/uv.jpeg"
+    right:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/perezp44/web.Econometria.GADE
+  page-footer:
+    left: "© 2022 Iván Arribas & Pedro J. Pérez"
+    right:
+      - icon: github
+        href: https://github.com/perezp44/web.Econometria.GADE
+format:
+  html:
+    theme: 
+     - flatly #sandstone #spacelab #cosmo
+     - custom.scss
+    css: 
+      - styles.css
+    toc: true
