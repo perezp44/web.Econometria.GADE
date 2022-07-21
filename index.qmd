@@ -3,7 +3,7 @@ title: ""
 ---
 
 
-### Transparencias para clase
+### Materiales para Teoría
 
 - [Slides tema 1](./econometria_gadedret/slides_tema_1.html){target="_blank"}
 
@@ -18,6 +18,9 @@ title: ""
 - [Slides tema 6](./econometria_gadedret/slides_tema_6.html){target="_blank"}
 
 - [Slides tema 7](./econometria_gadedret/slides_tema_7.html){target="_blank"}
+
+
+- [Ejemplos de aplicación](./econometria_gadedret/ejemplos_de_aplicacion.html){target="_blank"}
 
 
 ### Material para prácticas
