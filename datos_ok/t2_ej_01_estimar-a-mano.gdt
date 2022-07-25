@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="datos_ejemplo_slides_02" frequency="1" startobs="1" endobs="5" type="cross-section">
+<variables count="2">
+<variable name="x"
+/>
+<variable name="y"
+/>
+</variables>
+<observations count="5" labels="false">
+<obs>5 6 </obs>
+<obs>7 3 </obs>
+<obs>4 9 </obs>
+<obs>6 3 </obs>
+<obs>3 9 </obs>
+</observations>
+</gretldata>
