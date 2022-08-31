@@ -24,7 +24,11 @@ title: ""
 -   [Etherpad](https://etherpad.wikimedia.org/p/curso_intro_DS_UV){target="_blank"}
 
 
-### Descarga materiales
+### Más cosas
+
+- [Aula Virtual](https://aulavirtual.uv.es/course/view.php?id=45440){target="_blank"} de la asignatura.
+
+- [Guía Docente](https://webges.uv.es/uvGuiaDocenteWeb/guia?APP=uvGuiaDocenteWeb&ACTION=MOSTRARGUIA.M&MODULO=35820&CURSOACAD=2023&IDIOMA=C){target="_blank"} de la asignatura.
 
 - Puedes descargarte todos los materiales en formato pdf [aquí](./materiales/materiales_econometria.zip){target="_blank"}
 
