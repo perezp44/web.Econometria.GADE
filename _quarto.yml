@@ -18,7 +18,7 @@ website:
       - icon: github
         href: https://github.com/perezp44/web.Econometria.GADE
   page-footer:
-    #left: "© 2022 Iván Arribas & Pedro J. Pérez"
+    left: "© 2022"
     right:
       - icon: github
         href: https://github.com/perezp44/web.Econometria.GADE
