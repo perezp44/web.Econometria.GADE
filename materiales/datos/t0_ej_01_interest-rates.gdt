@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="t0_ej_01_interest-rates" frequency="1" startobs="1980" endobs="1998" type="time-series">
+<description>
+Table 7.10
+Demand for Money in the USA, 1980-1998
+
+Source: Economic Report of the President, 2000, Tables
+B-1, B-58, B-67 and B-71.
+</description>
+<variables count="3">
+<variable name="M2"
+ label="Money Stock, M2"
+/>
+<variable name="i_long"
+ label="Interest rate (long term)"
+/>
+<variable name="i_short"
+ label="Interest rate (short term)"
+/>
+</variables>
+<observations count="19" labels="false">
+<obs>1600.4 11.27 11.506 </obs>
+<obs>1756.1 13.45 14.029 </obs>
+<obs>1911.2 12.76 10.686 </obs>
+<obs>2127.8 11.18 8.63 </obs>
+<obs>2311.7 12.41 9.58 </obs>
+<obs>2497.4 10.79 7.48 </obs>
+<obs>2734 7.78 5.98 </obs>
+<obs>2832.8 8.59 5.82 </obs>
+<obs>2995.8 8.96 6.69 </obs>
+<obs>3159.9 8.45 8.12 </obs>
+<obs>3279.1 8.61 7.51 </obs>
+<obs>3379.8 8.14 5.42 </obs>
+<obs>3434.1 7.67 3.45 </obs>
+<obs>3487.5 6.59 3.02 </obs>
+<obs>3502.2 7.37 4.29 </obs>
+<obs>3649.3 6.88 5.51 </obs>
+<obs>3824.2 6.71 5.02 </obs>
+<obs>4046.7 6.61 5.07 </obs>
+<obs>4401.4 5.58 4.81 </obs>
+</observations>
+</gretldata>

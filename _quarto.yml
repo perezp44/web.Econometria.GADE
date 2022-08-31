@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Econometría (GADE, grupo F, 2022-23). UV"
+  title: "Econometría (GADE, UV, 2022-23)"
   favicon: imagenes/uv_favicon.ico
   site-url: https://perezp44.github.io/web.Econometria.GADE/
   repo-url: https://github.com/perezp44/web.Econometria.GADE
@@ -18,7 +18,7 @@ website:
       - icon: github
         href: https://github.com/perezp44/web.Econometria.GADE
   page-footer:
-    left: "© 2022 Iván Arribas & Pedro J. Pérez"
+    #left: "© 2022 Iván Arribas & Pedro J. Pérez"
     right:
       - icon: github
         href: https://github.com/perezp44/web.Econometria.GADE

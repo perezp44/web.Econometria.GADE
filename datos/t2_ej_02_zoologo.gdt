@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gretldata SYSTEM "gretldata.dtd">
+
+<gretldata version="1.4" name="t2_02_zoologo" frequency="1" startobs="1" endobs="20" type="cross-section">
+<description>Datos importados desde el fichero Excel 'Exercici_2.4.xls', 2015-10-05 12:28
+</description>
+<variables count="2">
+<variable name="peso"
+ label="(en kilogramos)"
+/>
+<variable name="longitud"
+ label="(en centímetros)"
+/>
+</variables>
+<observations count="20" labels="false">
+<obs>2.1 44 </obs>
+<obs>2.7 49 </obs>
+<obs>2.5 51 </obs>
+<obs>1.4 43 </obs>
+<obs>1.9 39 </obs>
+<obs>1.7 46 </obs>
+<obs>2.4 51 </obs>
+<obs>1.8 46 </obs>
+<obs>2.3 44 </obs>
+<obs>2.2 42 </obs>
+<obs>1.6 41 </obs>
+<obs>1.8 47 </obs>
+<obs>1.8 43 </obs>
+<obs>1.3 42 </obs>
+<obs>1.4 39 </obs>
+<obs>1.9 46 </obs>
+<obs>1.8 43 </obs>
+<obs>1.6 43 </obs>
+<obs>1.6 47 </obs>
+<obs>1.6 49 </obs>
+</observations>
+</gretldata>
