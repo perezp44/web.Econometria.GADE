@@ -2720,7 +2720,7 @@ class: inverse, center, middle
 
 ### Generalización: regresión lineal múltiple
 
-###### (actualizadas el 31-08-2022)
+###### (actualizadas el 27-10-2022)
 
 
 ---
@@ -2905,7 +2905,7 @@ class: inverse, center, middle
 
 - En el tema 3 vimos el coeficiente de determinación `\(R^{2}\)` como medida de bondad de ajuste, pero muchas veces se usa para **comparar modelos**
 
--  Pero, estrictamente, para poder comparar modelos en base al  `\(R^{2}\)`, los modelos han de tener el mismo **regresando**, haber sido estimados con el mismo tamaño muestral y el **mismo número de regresores**.
+-  Estrictamente, para poder comparar modelos en base al  `\(R^{2}\)`, los modelos han de tener el mismo **regresando**, haber sido estimados con el mismo tamaño muestral y el **mismo número de regresores**.
 
 ##### ¿por qué el mismo número de regresores?
 
@@ -2927,7 +2927,7 @@ class: inverse, center, middle
 
 - Por construcción, `\(\overline{R^{2}}\)` penaliza  a los modelos con elevado número de regresores ( `\(k\)` )
 
-- `\(R^{2}\)`  puede disminuir al aumentar el número de regresores ( `\(\uparrow k\)` ), pero `\(\overline{R^{2}}\)` no, ya que ...   
+- `\(R^{2}\)`  **no** puede disminuir al aumentar el número de regresores ( `\(\uparrow k\)` ), pero `\(\overline{R^{2}}\)` sí, ya que ...   
 
 - ... cuando se introduce un regresor más al modelo, SCR generalmente cae, pero también lo hace los grados de libertad `\((N-k)\)`, de forma que el cambio en `\(\overline{R^{2}}\)` no está determinado
 
